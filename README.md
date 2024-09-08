@@ -4,3 +4,5 @@
 <!-- Bio -->
 <h3 align=center> this is soydoradesu's // Valentino Kim Fernando's (2306275771) github repository </h3>
 <p align=center><strong>for Operating System CSCM602055</strong><p>
+
+[GitHub](https://github.com/soydoradesu/os242/) | | [LOG](TXT/mylog.txt) | | [LINKS](LINKS/)
