@@ -21,5 +21,5 @@ These commands will help you list PCI devices, view information about your CPU, 
 Regular expression could help you to do things, quicker and less effort.
 <br>
 <br>
-#### REV: Fri 08 Sep 2024 11:26
+#### REV: Thu 12 September 2024 0:33
 <hr>
