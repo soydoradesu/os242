@@ -14,8 +14,11 @@ permalink: LINKS/
   Slides with LaTeX sources code.
 * [Operating System Introduction by NESO Academy] (https://www.youtube.com/watch?v=vBURTt97EkA)--- I think this is a very helpful source for os learners to learn
 * [Linux Crash Course - Easy Terminal Commands for Inspecting Hardware](https://youtu.be/oGyJr-iUwt8?si=59V2boc0XfmlFekg)---
-Some easy-to-use commands you can use to inspect hardware. 
+Some easy-to-use commands you can use to inspect hardware.
 These commands will help you list PCI devices, view information about your CPU, and more.
+* [10 Linux Terminal Commands for Beginners](https://youtu.be/CpTfQ-q6MPU?si=LUBMoZo24tXMiqA-) --- This guide made me somehow understand the lecture more. It gets to your muscle memory now to type ls, cd, pwd, etc.!!
+* [Regular Expressions - Enough to be Dangerous](https://youtu.be/bgBWp9EIlMM?si=QcAY-wy61YeqPRWM) ---
+Regular expression could help you to do things, quicker and less effort.
 <br>
 <br>
 #### REV: Fri 08 Sep 2024 11:26
