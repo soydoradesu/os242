@@ -19,3 +19,7 @@ ZCZC W01 120 L09 Weekly Assignments
 ZCZC W02 20 L00 General, etc.
 ZCZC W02 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W02 100 L09 Weekly Assignments
+ZCZC W03 200 L60 Install/Reinstall/Restore/Backup Desktop or Laptop 
+ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W03 120 L13 Assignment #03
+ZCZC W03 120 L32 Watching OS & Linux guide video
