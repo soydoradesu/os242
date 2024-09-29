@@ -23,3 +23,5 @@ ZCZC W03 200 L60 Install/Reinstall/Restore/Backup Desktop or Laptop
 ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W03 120 L13 Assignment #03
 ZCZC W03 120 L32 Watching OS & Linux guide video
+ZCZC W04 120 L32 Learning to code in C
+ZCZC W04 60 L09 Weekly Assignment
