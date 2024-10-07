@@ -25,3 +25,8 @@ ZCZC W03 120 L13 Assignment #03
 ZCZC W03 120 L32 Watching OS & Linux guide video
 ZCZC W04 120 L32 Learning to code in C
 ZCZC W04 60 L09 Weekly Assignment
+ZCZC W05 100 L02 Attending class in Monday
+ZCZC W05 120 L09 Weekly assignment
+ZCZC W05 10 L05 QUIZ
+ZCZC W05 60 L32 Watching guide for linux memory management
+ZCZC W05 60 L32 Learn to code in C

@@ -23,6 +23,8 @@ Regular expression could help you to do things, quicker and less effort.
 A very helpful source for linux training!
 * [A Beginner's Introduction to BASH Shell Scripting](https://youtu.be/_n5ZegzieSQ?si=jVBvZxevRCbkwphv) ---
 How to write basic shell scripts and a look at more advanced scripting for the beginner.
+* [Introduction to Linux's memory management](https://www.youtube.com/watch?v=7aONIVSXiJ8) ---
+Guide for linux memory management.
 <br>
 <br>
 #### REV: Thu 29 September 2024 8:57
