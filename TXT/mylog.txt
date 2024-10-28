@@ -30,3 +30,6 @@ ZCZC W05 120 L09 Weekly assignment
 ZCZC W05 10 L05 QUIZ
 ZCZC W05 60 L32 Watching guide for linux memory management
 ZCZC W05 60 L32 Learn to code in C
+ZCZC W06 120 L09 Weekly assignment #6
+ZCZC W06 240 L16 Pop Quiz #6
+ZCZC W06 60 L32 Watching youtube for linux things

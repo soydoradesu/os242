@@ -25,7 +25,9 @@ A very helpful source for linux training!
 How to write basic shell scripts and a look at more advanced scripting for the beginner.
 * [Introduction to Linux's memory management](https://www.youtube.com/watch?v=7aONIVSXiJ8) ---
 Guide for linux memory management.
+* [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) ---
+Cheatsheet for Bash operations.
 <br>
 <br>
-#### REV: Thu 29 September 2024 8:57
+#### REV: Mon 28 October 2024 15:15
 <hr>
