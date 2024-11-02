@@ -27,6 +27,8 @@ How to write basic shell scripts and a look at more advanced scripting for the b
 Guide for linux memory management.
 * [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) ---
 Cheatsheet for Bash operations.
+* [Vim Basics in 8 Minutes](https://youtu.be/ggSyF1SVFr4?si=J8_XKPxVu63ntte_) ---
+Learn all the basics you need to start editing text in vi or vim.
 <br>
 <br>
 #### REV: Mon 28 October 2024 15:15
