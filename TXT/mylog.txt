@@ -34,6 +34,8 @@ ZCZC W06 120 L09 Weekly assignment #6
 ZCZC W06 240 L16 Pop Quiz #6
 ZCZC W06 60 L32 Watching youtube for linux things
 ZCZC W06 120 L09 Weekly assignment #6
-ZCZC W06 180 L16 Pop Quiz #6
-ZCZC W06 100 L02 Attending class in Monday
-ZCZC W06 10 L05 Quiz
+ZCZC W07 180 L16 Pop Quiz #7
+ZCZC W07 100 L02 Attending class in Monday
+ZCZC W07 10 L05 Quiz
+ZCZC W08 180 L16 Pop Quiz #8
+ZCZC W08 10 L05 Quiz

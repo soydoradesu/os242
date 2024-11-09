@@ -29,7 +29,9 @@ Guide for linux memory management.
 Cheatsheet for Bash operations.
 * [Vim Basics in 8 Minutes](https://youtu.be/ggSyF1SVFr4?si=J8_XKPxVu63ntte_) ---
 Learn all the basics you need to start editing text in vi or vim.
+* [LFS](https://www.youtube.com/watch?v=QlzoegSuIzg) ---
+Linux from scratch!
 <br>
 <br>
-#### REV: Mon 28 October 2024 15:15
+#### REV: Mon 10 November 2024 0:54
 <hr>
