@@ -31,7 +31,9 @@ Cheatsheet for Bash operations.
 Learn all the basics you need to start editing text in vi or vim.
 * [LFS](https://www.youtube.com/watch?v=QlzoegSuIzg) ---
 Linux from scratch!
+* [Another LFS](https://www.youtube.com/playlist?list=PLyc5xVO2uDsCQChvKRDhF-cvsguDfd-y2) ---
+Kernotex's Playlist
 <br>
 <br>
-#### REV: Mon 10 November 2024 0:54
+#### REV: Sun 17 November 2024 15:02
 <hr>
