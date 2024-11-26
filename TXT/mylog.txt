@@ -41,3 +41,5 @@ ZCZC W08 180 L16 Pop Quiz #8
 ZCZC W08 10 L05 Quiz
 ZCZC W09 300 L09 Weekly assignment #9
 ZCZC W09 60 L16 Pop Quiz #9
+ZCZC W10 600 L09 Weekly assignment #10
+ZCZC W10 30 L16 Pop Quiz #10

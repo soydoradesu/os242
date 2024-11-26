@@ -33,6 +33,8 @@ Learn all the basics you need to start editing text in vi or vim.
 Linux from scratch!
 * [Another LFS](https://www.youtube.com/playlist?list=PLyc5xVO2uDsCQChvKRDhF-cvsguDfd-y2) ---
 Kernotex's Playlist
+* [Vim Basics in 8 Minutes](https://youtu.be/ggSyF1SVFr4?si=J8_XKPxVu63ntte_) ---
+Learning text editing in vi or vim.
 <br>
 <br>
 #### REV: Sun 17 November 2024 15:02
